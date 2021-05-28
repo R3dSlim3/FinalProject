@@ -1,0 +1,23 @@
+html,
+.BodyCardContainer {
+    flex: 1px;
+    margin-top: 100px;
+    
+}
+
+.TextBody {
+    padding: 5px;
+    flex: 1px;
+    margin-bottom: 3px;
+}
+.TextBox{
+    width: 30rem;
+    
+}
+
+.ButtonContainer{
+    padding: 10px;
+    text-align: center;
+    width: 30rem;
+
+}
